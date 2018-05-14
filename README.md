@@ -1,6 +1,6 @@
 # bsa-2018-js
 Test task Binary studio academy Java Script
-##Task
+## Task
 
 Створити класс “Fighter”. Клас повиненин приймати значення name, power і health. Також клас повинен мати методи “setDamage” та “hit”.
 
